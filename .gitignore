@@ -1,0 +1,16 @@
+# .NET build outputs
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Generated graphs
+*.png
+
+# Temporary files
+*.tmp
+*.log
